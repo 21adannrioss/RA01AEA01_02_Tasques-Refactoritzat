@@ -1,0 +1,55 @@
+/* App */
+.gestor {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+.filtre {
+  display: block;
+  margin: 1rem 0;
+}
+
+.notificacio {
+  background: #e7f6e7;
+  border: 1px solid #7bc47b;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+
+/* TaskForm */
+.formulari input[type='text'] {
+  padding: 0.3rem;
+  margin-right: 0.5rem;
+}
+
+.avis {
+  color: red;
+}
+
+/* TaskList */
+.llista {
+  list-style: none;
+  padding: 0;
+}
+
+.llista li {
+  margin: 0.3rem 0;
+}
+
+.llista button {
+  margin-left: 1rem;
+}
+
+.buit {
+  color: gray;
+}
+
+/* TaskItem */
+.tatxada {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.data {
+  margin-left: 0.3rem;
+}
