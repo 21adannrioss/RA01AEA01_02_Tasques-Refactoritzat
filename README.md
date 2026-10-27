@@ -17,4 +17,5 @@ App.vue              (estat: tasques, filtre, comptadors, notificacions)
 
 ## Millora inclosa
 Notificacions temporals per cada acció.
-Comptador de tasques pendents i completades
+
+Comptador de tasques pendents i completades.
